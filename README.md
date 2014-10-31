@@ -1,2 +1,2 @@
-terp-calendar
+TERP-CALENDAR
 =============
